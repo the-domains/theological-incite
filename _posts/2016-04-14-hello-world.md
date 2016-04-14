@@ -5,17 +5,17 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: First Post
-datePublished: '2016-04-14T19:56:38.720Z'
-dateModified: '2016-04-14T19:56:17.622Z'
+description: 'Hello World!'
+datePublished: '2016-04-14T19:59:01.115Z'
+dateModified: '2016-04-14T19:59:00.595Z'
 title: Hello World
+author: []
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
 sourcePath: _posts/2016-04-14-hello-world.md
 published: true
 url: hello-world/index.html
